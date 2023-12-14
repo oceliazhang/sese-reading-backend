@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Introduction to Rocket Propulsion",
+    "description": "Basic principles of rocket propulsion and rocket engines.",
+    "author": "aaa"
+  },
+  {
+    "name": "Fuel and Combustion",
+    "description": "Understanding rocket fuel and combustion processes.",
+    "author": "xxx"
+  },
+  {
+    "name": "Nozzle Design",
+    "description": "Principles of rocket nozzle design.",
+    "author": "ccc"
+  },
+  {
+    "name": "Fundamentals of Aerodynamics",
+    "description": "Basic aerodynamic concepts and fluid dynamics principles.",
+    "author": "ddd"
+  },
+  {
+    "name": "Subsonic and Supersonic Flow",
+    "description": "Understanding subsonic and supersonic aerodynamic behaviors.",
+    "author": "eee"
+  }
+]
