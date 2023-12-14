@@ -21,8 +21,8 @@ db.on("connected", () => {
 const app = express();
 app.use(cors({
     credentials: true,
-    //origin:process.env.FRONTEND_URL_LOCAL,
-    origin: process.env.NODE_ENV === "PRODUCTION" ? process.env.FRONTEND_URL : process.env.FRONTEND_URL_LOCAL,
+    origin:process.env.FRONTEND_URL,
+    //origin: process.env.NODE_ENV === "PRODUCTION" ? process.env.FRONTEND_URL : process.env.FRONTEND_URL_LOCAL,
   })
 );
 app.options('*', cors());
